@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Keval9shah
+- 👋 Hi, I’m Keval Shah, a Computer engineering graduate
 - 👀 I’m interested in ML, AI, Web3, Fintech.
 - 🌱 I’m currently learning database integration and front-end frameworks.
 - 💞️ I’m open to collaborate on just about anything.
